@@ -1,0 +1,13 @@
+C:\Users\Xaiver\Documents\Visual Studio 2017\Projects\YoutubeDownloaderUsingAPI\YoutubeDownloaderUsingAPI\bin\Debug\YoutubeDownloaderUsingAPI.exe.config
+C:\Users\Xaiver\Documents\Visual Studio 2017\Projects\YoutubeDownloaderUsingAPI\YoutubeDownloaderUsingAPI\bin\Debug\YoutubeDownloaderUsingAPI.exe
+C:\Users\Xaiver\Documents\Visual Studio 2017\Projects\YoutubeDownloaderUsingAPI\YoutubeDownloaderUsingAPI\bin\Debug\YoutubeDownloaderUsingAPI.pdb
+C:\Users\Xaiver\Documents\Visual Studio 2017\Projects\YoutubeDownloaderUsingAPI\YoutubeDownloaderUsingAPI\bin\Debug\YoutubeExplode.dll
+C:\Users\Xaiver\Documents\Visual Studio 2017\Projects\YoutubeDownloaderUsingAPI\YoutubeDownloaderUsingAPI\bin\Debug\YoutubeExplode.xml
+C:\Users\Xaiver\Documents\Visual Studio 2017\Projects\YoutubeDownloaderUsingAPI\YoutubeDownloaderUsingAPI\obj\Debug\YoutubeDownloaderUsingAPI.csprojResolveAssemblyReference.cache
+C:\Users\Xaiver\Documents\Visual Studio 2017\Projects\YoutubeDownloaderUsingAPI\YoutubeDownloaderUsingAPI\obj\Debug\YoutubeDownloaderUsingAPI.Form1.resources
+C:\Users\Xaiver\Documents\Visual Studio 2017\Projects\YoutubeDownloaderUsingAPI\YoutubeDownloaderUsingAPI\obj\Debug\YoutubeDownloaderUsingAPI.Properties.Resources.resources
+C:\Users\Xaiver\Documents\Visual Studio 2017\Projects\YoutubeDownloaderUsingAPI\YoutubeDownloaderUsingAPI\obj\Debug\YoutubeDownloaderUsingAPI.csproj.GenerateResource.Cache
+C:\Users\Xaiver\Documents\Visual Studio 2017\Projects\YoutubeDownloaderUsingAPI\YoutubeDownloaderUsingAPI\obj\Debug\YoutubeDownloaderUsingAPI.exe
+C:\Users\Xaiver\Documents\Visual Studio 2017\Projects\YoutubeDownloaderUsingAPI\YoutubeDownloaderUsingAPI\obj\Debug\YoutubeDownloaderUsingAPI.pdb
+C:\Users\Xaiver\Documents\Visual Studio 2017\Projects\YoutubeDownloaderUsingAPI\YoutubeDownloaderUsingAPI\bin\Debug\NReco.VideoConverter.dll
+C:\Users\Xaiver\Documents\Visual Studio 2017\Projects\YoutubeDownloaderUsingAPI\YoutubeDownloaderUsingAPI\bin\Debug\NReco.VideoConverter.xml
